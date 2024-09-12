@@ -1,0 +1,14 @@
+.btn {
+  font-size: 24px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.click-me {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.no-click-me {
+  background-color: yellow;
+  columns: white;
+  font-weight: bold;
+}
